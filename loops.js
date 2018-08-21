@@ -6,7 +6,8 @@ for (var i = 0; i < 25; i++) {
   console.log("I am " + i + " strange loop");
 }
 
-Function whileLoop(i=0) {
+var i = 0
+Function whileLoop() {
 while (let i = 10; i--;)  
 return console.log('done')
 }
