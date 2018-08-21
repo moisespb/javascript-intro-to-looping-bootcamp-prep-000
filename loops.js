@@ -7,12 +7,12 @@ for (var i = 0; i < 25; i++) {
 }
 
 var i = 0
-Function whileLoop() {
+function whileLoop() {
 while (let i = 10; i--;)  
 return console.log('done')
 }
 
 
-
+function fundoWhileLoop()
 
 
